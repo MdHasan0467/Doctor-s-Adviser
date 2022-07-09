@@ -160,6 +160,12 @@ box-sizing: border-box;
   color: #6f8ba1;
 }
 
+.rating-items .rating-no .fa-star{
+  font-size: 20px;
+  margin-right: 5px;
+  color: coral;
+}
+
 .rating-items .member{
   position: absolute;
   top: 60%;
