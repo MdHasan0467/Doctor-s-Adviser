@@ -1,0 +1,1 @@
+START BijoyTypingTutor/setup.exe
