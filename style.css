@@ -8,6 +8,7 @@ box-sizing: border-box;
   width: 100vw;
   height: 100vh;
   background: #3c6382 ;
+  /* background-image: linear-gradient(to left, rgba(0,0,0,1), rgba(0,0,0,0)); */
   position: relative;
 }
 .adviser-btn{
@@ -428,6 +429,7 @@ box-sizing: border-box;
 .contact-main-box .contact-box01 img:hover {
   width: 490px;
   height: 320px;
+  object-fit: cover; /*----- img jotoi width height barano ba komano hok na kn img er quality same e thakbe---*/
   z-index: 1;
 }
 
@@ -460,6 +462,7 @@ box-sizing: border-box;
 .contact-main-box .contact-box02 img:hover {
   width: 490px;
   height: 320px;
+  object-fit: cover; /*----- img jotoi width height barano ba komano hok na kn img er quality same e thakbe---*/
   z-index: 1;
 }
 
@@ -490,6 +493,7 @@ box-sizing: border-box;
 .contact-main-box .contact-box03 img:hover {
   width: 490px;
   height: 320px;
+  object-fit: cover; /*----- img jotoi width height barano ba komano hok na kn img er quality same e thakbe---*/
   z-index: 1;
 }
 
@@ -521,6 +525,7 @@ box-sizing: border-box;
 .contact-main-box .contact-box04 img:hover{
   width: 490px;
   height: 320px;
+  object-fit: cover; /*----- img jotoi width height barano ba komano hok na kn img er quality same e thakbe---*/
   z-index: 1;
 }
 
